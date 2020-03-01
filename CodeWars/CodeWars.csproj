@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DisemvowellTrolls.cs" />
     <Compile Include="MultiplesOf3Or5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

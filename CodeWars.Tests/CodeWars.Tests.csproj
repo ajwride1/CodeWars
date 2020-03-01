@@ -49,6 +49,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DisemvowelTrolls.cs" />
     <Compile Include="MultiplesOf3Or5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
